@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="update.md">
+    <link rel="stylesheet"  type ="text/css" href="[update.md](https://legoman8304.github.io/update.css")">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Game Artist Portfolio</title>

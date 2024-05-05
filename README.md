@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @GamerzNepal1122
-- 👀 I’m interested in making Games
-- 🌱 I’m currently learning C and C# and CS
-- 💞️ I’m looking to collaborate on Some Developer
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

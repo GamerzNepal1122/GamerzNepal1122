@@ -117,7 +117,7 @@
         <p>Showcasing my game art and creativity.</p>
     </div>
     <div class="gallery">
-            <img src="Screenshot 2024-04-29 223209.png" alt="Artwork 1">
+            <img src="Screenshot 2024-05-05 132556.png" alt="Artwork 1">
         <!-- Example: <img src="image1.jpg" alt="Artwork 1"> -->
     </div>
     <footer>

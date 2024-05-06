@@ -106,7 +106,7 @@
                 <ul>
                     <li class="current"><a href="#home">Home</a></li>
                     <li><a href="#about">About</a></li>
-                    <li><a href="#gallery">Gallery</a></li>
+                    <li><a href="https://gamerznepal1122.github.io/gallery.md/">Gallery</a></li>
                     <li><a href="#contact">Contact</a></li> <!-- Added Contact link -->
                 </ul>
             </nav>

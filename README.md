@@ -94,6 +94,16 @@
             bottom: 0;
             width: 100%;
         }
+        img{
+            width:400px;
+            border-radius:10px;
+            filter:blur(6px) grayscale(1);
+            transition: .4s;
+            box-shadow: 0 0 10px #00000030;
+        }
+        img:hover{
+            filter:blur(0px) grayscale(0);
+        }
     </style>
 </head>
 <body>

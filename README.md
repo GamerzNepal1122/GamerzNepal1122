@@ -102,7 +102,7 @@
             box-shadow: 0 0 10px #00000030;
         }
         img:hover{
-            filter:blur(0px) grayscale(0);
+            filter:blur(0) grayscale(0);
         }
     </style>
 </head>
